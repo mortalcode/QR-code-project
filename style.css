@@ -13,7 +13,7 @@ body{
     text-align: center;
 }
 
-.container{
+.attribution{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -40,4 +40,5 @@ p{
     background-color: white;
     color: hsl(220, 15%, 55%);
     font-size: 15px;
+    margin: rem;
 }
