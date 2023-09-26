@@ -1,44 +1,44 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
 
-:root{
-    font-family: Outfit, sans-serif;
+:root {
+  font-family: Outfit, sans-serif;
 }
-body{
-    background-color:hsl(212, 45%, 89%);
-    font-family: Outfit;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    text-align: center;
-}
-
-.attribution{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(255, 255, 255);
-    border-radius: 15px;
-    width: 250px;
-    height: 400px;
-    padding: 20px;
-    box-shadow: 2px 5px 25px lightgrey;
-}
-#qrcode{
-    width: 260px;
-    border-radius: 10px;
-    margin-top: 15px;
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: Outfit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
 }
 
-h3{
-    background-color: white;
-    color: hsl(218, 44%, 22%);
-    font-size: 20px;
+.attribution {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+  width: 250px;
+  height: 420px;
+  padding: 20px;
+  box-shadow: 2px 5px 25px lightgrey;
+}
+#qrcode {
+  width: 260px;
+  border-radius: 10px;
+  margin-top: 27px;
 }
 
-p{
-    background-color: white;
-    color: hsl(220, 15%, 55%);
-    font-size: 15px;
-    margin: rem;
+h3 {
+  background-color: white;
+  color: hsl(218, 44%, 22%);
+  font-size: 20px;
+}
+
+p {
+  background-color: white;
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+  margin-bottom: 3rem;
 }
